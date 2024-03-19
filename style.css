@@ -25,7 +25,6 @@ html {
   background-color: var(--clr-neutral-black);
   color: var(--clr-neutral-white);
   height: 100vh;
-  max-width: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -76,7 +75,6 @@ h2 {
 button {
   display: block;
   width: 35vh;
-  margin-inline: auto;
   padding-block: 15px;
   background-color: var(--clr-neutral-grey);
   color: var(--clr-neutral-white);
